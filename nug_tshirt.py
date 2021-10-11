@@ -11,6 +11,7 @@ def regression(test_data, reg):
     print("Predicted from {} is {}.".format(test_data, reg.predict(test_data)))
 
 def main():
+    #Putting this code to LOCAL BRANCH
     #Error handling when creating the engine to SQLite
     try:
         engine = create_engine('sqlite:///nug.db', echo=False)
