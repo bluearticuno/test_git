@@ -11,7 +11,7 @@ def regression(test_data, reg):
     print("Predicted from {} is {}.".format(test_data, reg.predict(test_data)))
 
 def main():
-    #Nugi added to test update to develop branch
+    #Nugi added to test update to develop branch, again and again
     #Putting this code to LOCAL BRANCH
     #Error handling when creating the engine to SQLite
     try:
