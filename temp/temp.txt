@@ -1,0 +1,1 @@
+*** This is a folder to store all temporary files (e.g. logging file from calculation).
